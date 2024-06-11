@@ -1,5 +1,5 @@
-- 👋 Hi<br>
-Life is so boring
+- 👋 Hi, My Name is Shuzretsu<br>
+(=,=)
 <a href="https://github.com/shuzretsu/github-readme-stats">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=shuzretsu&card_width=250" />
 </a>
