@@ -1,5 +1,5 @@
 - 👋 Hi, My Name is Shuzretsu<br>
-Currently, I am pursuing a Bachelor's degree in Informatics Engineering. I am proficient in using a soldering iron and electronic tools, and I am learning about machine learning. I have a basic understanding of Python, C++, and Rust. Although I don't have any work experience yet, I am eager to gain experience in any job.
+Currently, I am pursuing a Bachelor's degree in Informatics Engineering. I am proficient in using a soldering iron and electronic tools, and I am learning about machine learning. I have a basic understanding of Python, C++, and Rust. Although I don't have any work experience yet, I am eager to gain experience in any job. I love Microcontroller and stuff
 (=,=)
 <a href="https://github.com/shuzretsu/github-readme-stats">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=shuzretsu&layout=compact" />
