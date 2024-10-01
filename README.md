@@ -2,4 +2,4 @@
 Whatever
 
 
-![SHUZRETSU](https://github-readme-stats.vercel.app/api?username=shuzretsu&show_icons=true&theme=transparent)
+![mine](https://github-readme-stats.vercel.app/api/top-langs/?username=shuzretsu&layout=compact)
