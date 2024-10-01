@@ -2,7 +2,7 @@
 Whatever
 
 
-![Top Langs](https://github-readme-stats-git-master-shuzretsus-projects.vercel.app/api/top-langs/?username=shuzretsu&layout=compact&&hide=html,php,css)
+![Top Langs](https://github-readme-stats-git-master-shuzretsus-projects.vercel.app/api/top-langs/?username=shuzretsu&layout=compact&hide=html,php,css)
 
 
 
