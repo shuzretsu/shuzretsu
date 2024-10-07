@@ -1,4 +1,2 @@
 
 Whatever
-:V
-
